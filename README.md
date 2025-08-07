@@ -2,12 +2,12 @@
 
 
   
-Cloud- and cloud-free spectra of the Earth in time used as input for the retrievals in LIFE IV  (Alei et al. 2022;A&A 665, A106). 
+Cloud- and cloud-free spectra of the Earth in time used as input for the retrievals in LIFE V  (Alei et al. 2022;A&A 665, A106). 
 
 Link to paper: 		https://doi.org/10.1051/0004-6361/202243760
 
   
-Original spectra are from Rugheimer and Kaltenegger (2019). Spectra were then scaled at the observer's distance and ran through LIFEsim. 
+Original spectra are from [Rugheimer and Kaltenegger (2019)](https://iopscience.iop.org/article/10.3847/1538-4357/aaa47a). Spectra were then scaled at the observer's distance and ran through LIFEsim. 
 
 All spectra assume the Earth to orbit a G2V star (Sun-like) on a circular 1AU orbit   
 at a distance of 10pc from the observer.  
